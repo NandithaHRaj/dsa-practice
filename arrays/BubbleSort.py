@@ -3,7 +3,8 @@
     Given an unsorted array as input, perform a BubbleSort and
     return the sorted array
 
-    Average Time: O(N^2), where N = number of elememts in array
+    Average Time: O(N^2), where N = number of elements in array
+    Best Time: O(N), when the array is already sorted
     Space: O(1) , No additional Space used
 
     NOTE : Not used in real world, because of poor performance O(N^2), 
